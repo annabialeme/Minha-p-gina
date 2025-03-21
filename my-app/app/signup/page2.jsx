@@ -11,7 +11,7 @@ export default function Home() {
     }, [router]);
 
     return (
-        <p>Redirecionando de volta</p>
+        <p>Redirecting...</p>
     );
 
 }
